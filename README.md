@@ -8,5 +8,16 @@
 <li>pip install python-dotenv</li>
 </ul>
 
+<ul>
+<center>
 <h3>Database schema</h3>
-![Image alt](https://github.com/NerdyVal/database_fqv/blob/main/db_scheme1.png)
+</center>
+</ul>
+
+<ul>
+<center>
+(created with dbdiagram.io)
+</center>
+</ul>
+  
+![image](https://github.com/NerdyVal/database_fqv/assets/114080091/aa371777-44b5-42eb-baf7-ba6cffbd8250)

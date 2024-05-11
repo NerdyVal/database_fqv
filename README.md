@@ -9,4 +9,4 @@
 </ul>
 
 <h3>Database schema</h3>
-
+![Image alt](https://github.com/NerdyVal/database_fqv/blob/main/db_scheme1.png)

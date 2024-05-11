@@ -1,4 +1,4 @@
-<h3>Для работы необходимо установить следующие библиотеки: numPy, Pandas, Psycopg2, Flask, Dotenv</h3>
+<h3>To work you need to install the following libraries: numPy, Pandas, Psycopg2, Flask, Dotenv</h3>
 
 <ul>
 <li>pip install numpy</li>
@@ -7,3 +7,6 @@
 <li>pip install flask</li>
 <li>pip install python-dotenv</li>
 </ul>
+
+<h3>Database schema</h3>
+
